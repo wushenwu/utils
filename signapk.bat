@@ -1,0 +1,1 @@
+java -jar "%~dp0signapk.jar" "%~dp0testkey.x509.pem" "%~dp0testkey.pk8" %1 "%1_signed.apk"

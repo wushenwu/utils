@@ -1,0 +1,4 @@
+
+http://www.symantec.com/connect/blogs/android-mobile-app-pen-test-tricks-part-iii-monitoring-filesystem-changes?cid=9454761#comment-9454761 Android Mobile App Pen-Test Tricks Part III: Monitoring Filesystem Changes
+
+http://www.symantec.com/connect/blogs/monitoring-android-network-traffic-part-i-installing-toolchain 
